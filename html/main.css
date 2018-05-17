@@ -1,0 +1,21 @@
+@CHARSET "UTF-8";
+body{
+	font-family:  "Noto Sans JP", "游ゴシック Medium", "游ゴシック体", "Yu Gothic Medium", YuGothic, "ヒラギノ角ゴ ProN", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+}
+p{
+	font-weight:bold;
+	font-size:18px;
+}
+.under_h1 p{
+	margin: 0;
+	padding: 0;
+}
+.under_h1 button{
+	margin: 10px;
+	border-radius: 10px;
+	outline: 0;
+}
+.under_h1 input{
+	border-radius: 5px;
+	outline: 0;
+}
